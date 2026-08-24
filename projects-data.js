@@ -1,11 +1,3 @@
-// ============================================================
-// PROJECT DATA — edit this file to add/change your real projects.
-// Each project needs: id, title, blurb (short, for the card),
-// role, channel, result (short campaign-style stats for the card),
-// tools (array of tool names — must match an icon in TOOL_ICONS below),
-// and a "detail" object used on the individual project page.
-// ============================================================
-
 const TOOL_ICONS = {
   "Canva": `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M17.5 8.5a6 6 0 1 0 0 7"/><circle cx="15.5" cy="12" r="1" fill="currentColor" stroke="none"/></svg>`,
   "Instagram": `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.2" cy="6.8" r="0.6" fill="currentColor" stroke="none"/></svg>`,
