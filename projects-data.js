@@ -74,7 +74,7 @@ const PROJECTS = [
   },
   {
     id: "lumen-crm-cleanup",
-    title: "School prosjects",
+    title: "School projects",
     blurb: "Developed marketing strategies and digital concepts through academic projects, including a 12-week campaign strategy for KANDU and the development of a new business concept from scratch.",
     role: "Marketing",
     channel: "Wordpress, instagram, Email",
