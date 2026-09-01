@@ -52,7 +52,7 @@ button, .btn {
   * { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
 }
 
-/* ---------- Snap scroll container ---------- */
+/*  Snap scroll container  */
 .snap-container {
   height: 100vh;
   overflow-y: scroll;
@@ -104,7 +104,7 @@ button, .btn {
   .dot-nav { display: none; }
 }
 
-/* ---------- Eyebrow labels ---------- */
+/*  Eyebrow labels  */
 .eyebrow {
   font-size: 0.72rem;
   letter-spacing: 0.14em;
@@ -299,7 +299,7 @@ button, .btn {
   justify-content: center;
   color: var(--ink);
 }
-.tool-icons svg { width: 15px; height: 15px; }
+.tool-icons svg { width: 30px; height: 30px; }
 
 .learn-more {
   font-weight: 600;
