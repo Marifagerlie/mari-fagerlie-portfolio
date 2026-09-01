@@ -105,11 +105,11 @@ const PROJECTS = [
         reflection: "Taking on a full campaign project so early in my studies was both challenging and rewarding. It taught me how much planning and teamwork goes into developing a campaign from start to finish and that finding the right idea can often be one of the most important parts of the process.The project challenged me creatively and gave me the opportunity to turn ideas into a complete strategy and visual concept. It was an experience I learned a lot from and made me want to explore campaign development and creative marketing further.",
       },
       {
-        title: "PubHub", 
+        title: "Building a brand from scratch", 
         cover: "url('images/pubhub-banner.png')",
         role: "Marketing Student",
         channel: "Wordpress, Instagram, TikTok",
-        objective: "As part of a group of five, we developed PubHub from an initial idea into a complete digital business concept. Starting from scratch, we created the name and concept, planned the digital strategy and built the website in WordPress. Throughout the project, we explored what goes into building and marketing a digital business by working with different channels and tools, including social media, email marketing through HubSpot and Meta Ads. The project took us from idea and develop it through the different stages from concept to launch.",
+        objective: "As part of a group of five, we developed a brand from an initial idea into a complete digital business concept. Starting from scratch, we created the name and concept, planned the digital strategy and built the website in WordPress. Throughout the project, we explored what goes into building and marketing a digital business by working with different channels and tools, including social media, email marketing through HubSpot and Meta Ads. The project took us from idea and develop it through the different stages from concept to launch.",
         approach: [
         "<strong>Concept development:</strong> Developed the initial idea, name, target audience and overall concept for PubHub.", 
         "<strong>Digital strategy:</strong> Planned how the business would use different digital channels to reach and engage its target audience.", 
